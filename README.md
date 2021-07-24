@@ -24,11 +24,11 @@ Movinder is THE IOS App for couples and friends who can't decide what movie to w
   </a>
     <a href="https://raw.githubusercontent.com/notdezzi/Movinder/master/LICENSE">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=plastic" alt="GitHub license">
-    <a href="https://en.wikipedia.org/wiki/Node.js">
-  <img src="https://img.shields.io/badge/Uses-Node.js-green" alt="Language">
+    <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">
+  <img src="https://img.shields.io/badge/Uses-Swift-orange" alt="Language">
   </a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img src="https://img.shields.io/badge/language-JavaScript-yellow.svg" alt="Language">
+    <a href="https://en.wikipedia.org/wiki/IOS">
+  <img src="https://img.shields.io/badge/For-IOS-blue.svg" alt="Language">
 </p>
 
 # Note:
