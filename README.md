@@ -14,8 +14,6 @@ Movinder is THE IOS App for couples and friends who can't decide what movie to w
 </p>
 
 <p align= "center">
-  <img src="https://img.shields.io/github/package-json/v/notdezzi/Movinder.svg" alt="GitHub package version">
-  </a>
     <a href="https://github.com/notdezzi/Movinder/network">
   <img src="https://img.shields.io/github/forks/notdezzi/Movinder.svg?style=plastic" alt="GitHub forks">
   </a>
